@@ -1,0 +1,26 @@
+Para la Semana de la Ciencia, debéis descargar el repositorio del juego https://github.com/eafernandezm01/SemanaCienciaQubits.git  (¡clona el repo como ya sabes eb VSC!)
+y crear un archivo llamado index.html (será la página principal para GitHub Pages).
+
+La página debe incluir:
+- Header con el título: 
+            Qubits
+            Semana de la ciencia - 25/26
+
+- Sección explicativa sobre los qubits
+Explicad de forma breve y sencilla qué son los qubits y cuáles son sus propiedades.
+Podéis incrustar algún vídeo de Youtube que lo explique.
+Recordad: la explicación va dirigida a alumnos de 5º y 6º de Primaria, así que usad un lenguaje fácil y ejemplos que puedan entender.
+
+- Sección instrucciones del juego
+Indicad cómo se juega de forma clara.
+
+- Botón “Jugar”
+Al pulsarlo debe abrir el juego.
+
+- Pie de página (footer) con:
+IES Donoso Cortés – 2º CFGS Desarrollo de Aplicaciones Multiplataforma y justo debajo, vuestros nombres completos.
+
+
+
+
+No olvidéis revisar ortografía y que la página sea clara y visual para niños.
